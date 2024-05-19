@@ -13,6 +13,7 @@ Using the true values of flows, we determined the number of constraints and the 
 
 Eigenvalues that I got:
 ![image](https://github.com/ansh63766/Model-Indentification-using-PCA/assets/113677013/8eb03fde-fcaa-480c-bb33-e74c958c0966)
+
 So, by crude method we can clearly see that there are 6 no of constraints or we can say 6 dependent variables.
 So, taking the eigenvectors corresponding to these 6 eigenvalues and transposing it we will get our constraint matrix that will be of size 6*23
 
